@@ -22,5 +22,5 @@ $sentence="Wambua dreaamt of cows.";
 $sentence_array=explode('',$sentence):
 //iterate the array printing at a time
 foreach
-ac
+acc
 ?>
